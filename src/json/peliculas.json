@@ -1,0 +1,95 @@
+[
+    {
+     "titulo": "Dragon Ball Super: Super Hero",
+      "fecha":"2022 Agosto 3",
+      "IcoFace":"../imgs2/facebook.png",
+      "IcoTw": "../imgs2/gorjeo.png",
+      "IcoIg":"../imgs2/instagram.png",
+      "ImgPort": "../imgs2/dbsuper.jpg",
+      "sinopsis": "Sinopsis",
+      "texto1A" : "El Ejército de la Cinta Roja fue una vez destruido por Goku. Las personas que continúan con su espíritu han creado",
+      "texto1B" : "los androides definitivos, Gamma 1 y Gamma 2. Estos dos androides se llaman a sí mismos Superhéroes.",
+      "texto1C" : "Comienzan a atacar a Piccolo y Gohan. ¿Cuál es el objetivo? Frente al peligro que se aproxima, es hora de despertar.",
+      "primerboton":"Pre order",
+      "segundoboton":"Read More",
+      "Cri1":"8.2 Metacritic",
+      "Cri2":"9.8 Photoshop",
+      "Cri3":"8.2 Metacritic"
+     
+   },
+   {
+    "titulo": "Thor love and thunder",
+     "fecha":" 2022 junio 22",
+     "IcoFace":"../imgs2/facebook.png",
+     "IcoTw": "../imgs2/gorjeo.png",
+     "IcoIg":"../imgs2/instagram.png",
+     "ImgPort": "../imgs2/thorcar.jpg",
+     "sinopsis": "Sinopsis",
+     "texto1A" : " Thor está buscando la paz interior, pero la irrupción de Gorr, el asesino de dioses, le obliga a volver al combate.",
+     "texto1B" : " Thor recluta a la Reina Valkiria, Korg y su exnovia, Jane Foster, para que lo ayuden a evitar la extinción de los dioses.",
+     "texto1C" : " Podra Thor encontrar tal deseada paz en su aventura en el....",
+     "primerboton":"Pre order",
+     "segundoboton":"Read More",
+     "Cri1":"6.4 Metacritic",
+     "Cri2":"7.8 Photoshop",
+     "Cri3":"6.4 Metacritic"
+    
+  },
+  {
+    "titulo": "Drive",
+     "fecha":"2022 junio 30",
+     "IcoFace":"../imgs2/facebook.png",
+     "IcoTw": "../imgs2/gorjeo.png",
+     "IcoIg":"../imgs2/instagram.png",
+     "ImgPort": "../imgs2/Drive.jpg",
+     "sinopsis": "Sinopsis",
+     "texto1A" : "Un misterioso conductor especialista de cine y mecánico en un taller, por la noche se convierte en un talentoso",
+     "texto1B" : "chófer para delincuentes. Su jefe, Shannon le busca trabajos en películas de Hollywood o fugas",
+     "texto1C" : "para criminales. Sin embargo, su mundo cambia cuando conoce a Irene, una madre solitaria que tiene al ",
+     "texto1D": "marido en la cárcel, y se ve enredado en un robo que involucra a la alta esfera de la mafia.",
+     "primerboton":"Pre order",
+     "segundoboton":"Read More",
+     "Cri1":"9.4 Metacritic",
+     "Cri2":"8.8 Photoshop",
+     "Cri3":"9.4 Metacritic"
+    
+  },
+  {
+    "titulo": "Elvis",
+     "fecha":"2022 Agosto 13",
+     "IcoFace":"../imgs2/facebook.png",
+     "IcoTw": "../imgs2/gorjeo.png",
+     "IcoIg":"../imgs2/instagram.png",
+     "ImgPort": "../imgs2/Elvis.jpg",
+     "sinopsis": "Sinopsis",
+     "texto1A" : "Explora la vida y la música de Elvis Presley a través del prisma de su relación con el coronel Tom Parker,",
+     "texto1B" : "su enigmático manager.La historia profundiza en la compleja dinámica que existía entre Presley y Parker que",
+     "texto1C" : "abarca más de 20 años, desde el ascenso de Presley a la fama hasta su estrellato sin precedentes, en el contexto",
+     "texto1D" : "de la revolución cultural y la pérdida de la inocencia en Estados Unidos.",
+     "primerboton":"Pre order",
+     "segundoboton":"Read More",
+     "Cri1":"7.6 Metacritic",
+     "Cri2":"8.0 Photoshop",
+     "Cri3":"7.6 Metacritic"
+    
+  },
+  {
+    "titulo": "The Batman",
+     "fecha":"2022 Agosto 19",
+     "IcoFace":"../imgs2/facebook.png",
+     "IcoTw": "../imgs2/gorjeo.png",
+     "IcoIg":"../imgs2/instagram.png",
+     "ImgPort": "../imgs2/Batman.jpg",
+     "sinopsis": "Sinopsis",
+     "texto1A" : "En su segundo año luchando contra el crimen, Batman explora la corrupción existente en la ciudad de Gotham",
+     "texto1B" : "y el vínculo de esta con su propia familia donde tambien conocera a extravagantes sujetos en su busqueda",
+     "texto1C" : "para terminar la corrupcion. Además, entrará en conflicto con un asesino en serie conocido como El Acertijo.",
+     "primerboton":"Pre order",
+     "segundoboton":"Read More",
+     "Cri1":"8.2 Metacritic",
+     "Cri2":"9.8 Photoshop",
+     "Cri3":"8.2 Metacritic"
+    
+  }
+  
+]
