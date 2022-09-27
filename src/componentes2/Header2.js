@@ -1,8 +1,9 @@
 import React from "react";
+import '../compCss2/Style2.css';
 
 function Header2(props){
     return <header className="Pelix">
-    <a href="index.html">< img src={props.imgVolver} alt="Logo"/></a>
+    <a href="/">< img src={props.imgVolver} alt="Logo"/></a>
            </header>
 
 }

@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-size: 22px;
-    background-color: black;
+    background-color: #632f53;
     color: white;
 
 }
@@ -45,9 +45,9 @@ header h2 {
 
 }
 
-.cartelera a {
+.cartelera a { 
     margin-left: 5px;
-    font-size: 35px;
+    font-size: 20px;
     text-decoration: none;
 }
 
@@ -59,3 +59,22 @@ header h2 {
     text-shadow: 0 0 5px purple, 0 0 5px purple;
 
 }
+
+.buenas{
+    text-decoration: none;
+    color: #fbfaf6;
+    font-size: 10px;
+    border: 2px solid #fbfaf6;
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+    
+    
+    transition: .5s all;
+}
+
+.buenas:hover{
+    background: #585757;
+    border: none;
+}
+

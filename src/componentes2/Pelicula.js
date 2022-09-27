@@ -1,7 +1,8 @@
 import React from "react";
+//import '../componentesCss/Style2.css';
 
 function Pelicula(props) {
-    return <div>
+    return <div >
         <section className="titulopag">
             <p className="name">{props.titulo}</p>
             <p className="fecha">

@@ -1,5 +1,6 @@
 import React from "react";
-
+import { Link } from 'react-router-dom';
+import '../componentesCss/Style.css';
 function Main(props) {
 
     return <main>
@@ -8,9 +9,11 @@ function Main(props) {
             <img src="../imgs/Cineplex_logo.svg.png" alt="Representacion" />
         </section>
         <section className="cartelera">
-
+               
             <p>Presione en el siguiente vinculo y podra ver nuestra ➜ </p>
-            <a href="peliculas.html"> CARTELERA</a>
+            
+            <Link to={"peliculas"} className="buenas" > VER LISTADO </Link>
+             
         </section>
     </main>
 

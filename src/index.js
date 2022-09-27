@@ -2,8 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import './componentesCss/Style2.css' //carpeta css2
-//import './componentesCss/Style.css' //carpeta css
+
+
 //import 'bootstrap/di st/css/bootstrap.min.css';
 
 
