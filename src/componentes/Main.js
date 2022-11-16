@@ -12,7 +12,7 @@ function Main(props) {
                
             <p>Presione en el siguiente vinculo y podra ver nuestra ➜ </p>
             
-            <Link to={"peliculas"} className="buenas" > VER LISTADO </Link>
+            <Link to={"peliculas"} className="buenas" > CARTELERA </Link>
              
         </section>
     </main>
